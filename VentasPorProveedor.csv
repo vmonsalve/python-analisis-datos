@@ -1,4 +1,9 @@
-﻿Fecha;Vendedor;Región;Artículo;Categoría;Unidades;Ganancia
+﻿Reporte Regional de Ventas;;;;;;
+;;;;;;
+Período desde;1/1/2016;;;;;
+Período hasta;31/1/2016;;;;;
+;;;;;;
+Fecha;Vendedor;Región;Artículo;Categoría;Unidades;Ganancia
 1/1/2016;Steve Ashton;Norte;Medias Femeninas;Vestimenta;6;18,00
 1/1/2016;Trevor Snodgrass;Oeste;Chocolate;Comestibles;8;3,84
 1/1/2016;Sarah Bond;Sur;Gorras;Vestimenta;3;6,30
